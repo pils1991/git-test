@@ -1,0 +1,8 @@
+# about.html
+# src/*
+# !src/style.css
+# *.zip
+# .DS_Store
+#you can write comments here
+
+password.txt
